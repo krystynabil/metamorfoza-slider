@@ -51,9 +51,9 @@
 </head>
 <body>
   <div id="compare">
-    <img src="ban%20pojed.png" alt="Po metamorfozie">
+    <img src="https://dressup-polska.pl/userdata/public/assets//ban%20po.png" alt="Po metamorfozie">
     <div id="overlay">
-      <img src="ban%20po.png" alt="Przed metamorfozą">
+      <img src="https://dressup-polska.pl/userdata/public/assets//ban%20poj.png" alt="Przed metamorfozą">
     </div>
     <div id="slider"></div>
   </div>
